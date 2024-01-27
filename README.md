@@ -38,7 +38,7 @@ ORDER BY total_sold DESC;
 
 1. Install Jupyter Notebook: `pip install jupyter`
 2. Start Jupyter Notebook: `jupyter notebook`
-3. Open the notebook file: `ecommerce_data_analysis.ipynb`
+3. Open the notebook file: `sql_project.ipynb`
 
 ## SQL Files
 
@@ -50,7 +50,7 @@ ORDER BY total_sold DESC;
 ## Jupyter Notebook Files
 
 
-1. `ecommerce_data_analysis.ipynb`
+1. `sql_project.ipynb`
    - Main notebook for analyzing eCommerce data.
    - Notebook for data visualization using matplotlib and seaborn.
 

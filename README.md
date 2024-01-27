@@ -2,7 +2,7 @@
 
 # ECOMMERCE DATA ANALYSIS
 
-This repository contains SQL and Jupyter Notebook files for analyzing eCommerce data. The goal of this project is to [provide a brief description of the project's objectives or goals].
+This repository contains SQL and Jupyter Notebook files for analyzing eCommerce data. The objective of this data analysis project is to gain insights into the ecommerce order data of a fictional company. We will analyze customer information, product details, and order history to derive meaningful conclusions that can aid business decision-making.
 
 ## Table of Contents
 
